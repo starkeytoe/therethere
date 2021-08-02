@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Workspace Experience">81a6ba9b530233004cb4ddeeff7b1258</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>therethere ➚</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>101</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>now/workspace/therethere</query>
+        <report/>
+        <roles>admin</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>scott.starkey@snc</sys_created_by>
+        <sys_created_on>2021-08-02 20:00:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5f15a92c1b713010cbcb0e56624bcbb3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>therethere ➚</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="therethere" source="x_snc_therethere">bfc4252c1b713010cbcb0e56624bcbbf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="therethere">bfc4252c1b713010cbcb0e56624bcbbf</sys_scope>
+        <sys_update_name>sys_app_module_5f15a92c1b713010cbcb0e56624bcbb3</sys_update_name>
+        <sys_updated_by>scott.starkey@snc</sys_updated_by>
+        <sys_updated_on>2021-08-02 20:00:32</sys_updated_on>
+        <timeline_page/>
+        <title>therethere ➚</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name>therethere</window_name>
+    </sys_app_module>
+</record_update>
